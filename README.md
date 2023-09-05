@@ -1,2 +1,1 @@
-# precoursehenery
-repositoruo de pruebaaaa
+prueba de como crear un repo y clonarlo a mi computadora.
